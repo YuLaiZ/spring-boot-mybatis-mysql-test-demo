@@ -19,4 +19,4 @@ logging:
     level:
 #        root: DEBUG
 #        org.springframework.boot: DEBUG
-        com.yulaiz.dong.web: DEBUG
+        com.yulaiz.test.demo.web: DEBUG
